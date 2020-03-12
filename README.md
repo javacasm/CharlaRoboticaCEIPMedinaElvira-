@@ -1,13 +1,11 @@
-# Curso de ROBÓTICA PARA EDUCACIÓN INFANTIL Y EDUCACIÓN PRIMARIA([202318GE167](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/202318GE167/))
+# Charla Robótica CEIP Medina Elvira
 
-## CEP de Jaén
-
-## 26 Febrero, 4, 11, 18 y 25 de Marzo 2020
+##  Marzo 2020
 
 
 ## José Antonio Vacas @javacasm
 
-# http://bit.ly/RobJaen
+# http://bit.ly/RoboticaME
 
 ![Licencia CC](./images/Licencia_CC.png)
 
@@ -56,12 +54,13 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 * Presentación de [herramientas de programación visual para los más pequeños: Code.org](./IniciacionProgramacion.md)
 * Introducción a Scratch (y alternativas como [Snap](./snap.md) o [mBlock](./mBlock.md))
 * [Programando con Scratch](./Scratch.md):
-  * [Dibujando con Scratch](./Scratch/Scratch.md#vamos-a-dibujar)
-  * [Personajes, disfraces, escenarios](./Scratch/Scratch.md#personaje)
-  * [Sonidos y animaciones](./Scratch/Scratch.md#sonido)
+  * [Dibujando con Scratch](./Scratch.md#vamos-a-dibujar)
+  * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
+  * [Sonidos y animaciones](./Scratch.md#sonido)
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
 * [Ejemplos de proyectos con Makey-makey](./MakeyMakey/README.md)
 * ¿[Qué y dónde comprar](./Comprar.md)?
+* [micro:bit](./Microbit.md)
 * [Escornabot](./escornabot.md)
     * ¿Qué es y para qué sirve en el aula?
     * [Alternativas](./RoboticaPrimaria.md)
@@ -72,7 +71,6 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 
 ## [OpenSource](./opensource.md)
 
-## [Diario de  clase](./Diario.md)
 
 ## Recursos
 [Robotica educativa con BeeBot](https://catedu.gitbooks.io/robotica-en-infantil-con-bee-bot/content/)
